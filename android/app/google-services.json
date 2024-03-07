@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1083430098079",
+    "project_id": "flutterfire-dear-diary",
+    "storage_bucket": "flutterfire-dear-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083430098079:android:e2230d2a683e46dc90feaa",
+        "android_client_info": {
+          "package_name": "com.example.dear_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083430098079-ombhkcftfip8sstuq96fthcasf6rlgbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA81KTH5J3g_7G00Ur743pXhZa1_wPwmjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083430098079-ombhkcftfip8sstuq96fthcasf6rlgbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083430098079-4oua6p0gc8pdfc32rjmfanap6a7ko0fv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dearDiary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

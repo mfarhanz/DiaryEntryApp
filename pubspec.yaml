@@ -1,0 +1,39 @@
+name: dear_diary
+description: Assignment 3
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  path_provider: ^2.1.1
+  intl: ^0.18.1
+  pdf: ^3.10.6
+  firebase_core: ^2.22.0
+  firebase_auth: ^4.13.0
+  firebase_storage: ^11.5.0
+  firebase_ui_auth: ^1.10.0
+  firebase_ui_oauth_google: ^1.2.14
+  cloud_firestore: ^4.13.0
+  image_picker: ^1.0.4
+  google_sign_in: ^6.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.0.4
+  analyzer: 6.2.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: fonts/OpenSans-Regular.ttf
+  

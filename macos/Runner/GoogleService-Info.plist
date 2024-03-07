@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBpnnx84cl0tzUTN32isaBUMbyfFlC8MHY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1083430098079</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dearDiary.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>flutterfire-dear-diary</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterfire-dear-diary.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1083430098079:ios:17f791372390e1a690feaa</string>
+</dict>
+</plist>
